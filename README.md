@@ -38,8 +38,8 @@ The accompanying PDF report explains the methodology, key findings, modelling de
 
 | File                                | Description                                             |
 | ----------------------------------- | ------------------------------------------------------- |
-| `Dollarama_Financial_Analysis.xlsx` | Full Excel financial model, analysis, and DCF valuation |
-| `Dollarama_DCF_Report.pdf`          | Written report explaining the analysis and valuation    |
+| `Dollarama Financial Model FY2021-2026.xlsx` | Full Excel financial model, analysis, and DCF valuation |
+| `Dollarama Financial Statement Analysis & DCF Valuation Report.pdf`          | Written report explaining the analysis and valuation    |
 
 ### Excel Workbook
 
